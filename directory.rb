@@ -1,3 +1,4 @@
+#first we print the list of students
 puts "The students of my cohort at Makers Academy"
 puts "--------------"
 puts "Kevin Lanzon"
